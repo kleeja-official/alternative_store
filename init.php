@@ -14,7 +14,7 @@ $kleeja_plugin['alternative_store']['information'] = [
     // The casual name of this plugin, anything can a human being understands
     'plugin_title' => [
         'en' => 'Alternative Store',
-        'ar' => ''
+        'ar' => 'المتجر البديل'
     ],
     // Who wrote this plugin?
     'plugin_developer' => 'Kleeja Team',
@@ -23,7 +23,7 @@ $kleeja_plugin['alternative_store']['information'] = [
     // Explain what is this plugin, why should I use it?
     'plugin_description' => [
         'en' => 'Alternative Store for kleeja',
-        'ar' => ''
+        'ar' => 'المتجر البديل ل kleeja'
     ],
     // Min version of Kleeja that's requiered to run this plugin
     'plugin_kleeja_version_min' => '3.1.4',
