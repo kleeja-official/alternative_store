@@ -1,7 +1,7 @@
 <?php
 // Kleeja Plugin
 // ALTERNATIVE_STORE
-// Version: 1.0
+// Version: 1.1
 // Developer: Kleeja Team
 
 // Prevent illegal run
@@ -19,7 +19,7 @@ $kleeja_plugin['alternative_store']['information'] = [
     // Who wrote this plugin?
     'plugin_developer' => 'Kleeja Team',
     // This plugin version
-    'plugin_version' => '1.0',
+    'plugin_version' => '1.1',
     // Explain what is this plugin, why should I use it?
     'plugin_description' => [
         'en' => 'Alternative Store for kleeja',
